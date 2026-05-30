@@ -1,5 +1,6 @@
-tigre
-ajolote
-ciervo
-araña
-mariquita
+cama
+sopa
+pasa
+mala
+rasa
+
